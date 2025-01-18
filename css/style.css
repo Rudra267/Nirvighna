@@ -11219,7 +11219,9 @@ right: 0%;bottom:20px;width: 100%;}
 
 @media only screen and (max-width:576px){
 .product-one-slider{margin:0px 15px; max-width:100%;}	
-	
+	.custom-margin{
+		margin-top: 40% !important;
+	}
 }
 
 
