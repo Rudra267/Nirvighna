@@ -11872,3 +11872,17 @@ transition: all 0.5s ease-in-out;
     color: #666;
 }
 
+#product_section > div{
+	width: 200px;
+	height: 200px;
+   /* background-color: red; */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+#product_section > div > img{
+	scale: 0.8;
+}
+
